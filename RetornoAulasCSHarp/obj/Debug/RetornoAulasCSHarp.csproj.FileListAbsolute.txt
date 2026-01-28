@@ -1,0 +1,11 @@
+C:\Users\gustavo.erdemetrio\source\repos\RetornoAulasCSHarp\RetornoAulasCSHarp\bin\Debug\RetornoAulasCSHarp.exe.config
+C:\Users\gustavo.erdemetrio\source\repos\RetornoAulasCSHarp\RetornoAulasCSHarp\bin\Debug\RetornoAulasCSHarp.exe
+C:\Users\gustavo.erdemetrio\source\repos\RetornoAulasCSHarp\RetornoAulasCSHarp\bin\Debug\RetornoAulasCSHarp.pdb
+C:\Users\gustavo.erdemetrio\source\repos\RetornoAulasCSHarp\RetornoAulasCSHarp\obj\Debug\RetornoAulasCSHarp.csproj.AssemblyReference.cache
+C:\Users\gustavo.erdemetrio\source\repos\RetornoAulasCSHarp\RetornoAulasCSHarp\obj\Debug\RetornoAulasCSHarp.Properties.Resources.resources
+C:\Users\gustavo.erdemetrio\source\repos\RetornoAulasCSHarp\RetornoAulasCSHarp\obj\Debug\RetornoAulasCSHarp.csproj.GenerateResource.cache
+C:\Users\gustavo.erdemetrio\source\repos\RetornoAulasCSHarp\RetornoAulasCSHarp\obj\Debug\RetornoAulasCSHarp.csproj.CoreCompileInputs.cache
+C:\Users\gustavo.erdemetrio\source\repos\RetornoAulasCSHarp\RetornoAulasCSHarp\obj\Debug\RetornoAulasCSHarp.exe
+C:\Users\gustavo.erdemetrio\source\repos\RetornoAulasCSHarp\RetornoAulasCSHarp\obj\Debug\RetornoAulasCSHarp.pdb
+C:\Users\gustavo.erdemetrio\source\repos\RetornoAulasCSHarp\RetornoAulasCSHarp\obj\Debug\RetornoAulasCSHarp.SCREEN.resources
+C:\Users\gustavo.erdemetrio\source\repos\RetornoAulasCSHarp\RetornoAulasCSHarp\obj\Debug\RetornoAulasCSHarp.TB_ALUNOSCADASTRADOS.resources

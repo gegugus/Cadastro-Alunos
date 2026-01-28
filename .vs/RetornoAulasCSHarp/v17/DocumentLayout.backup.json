@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gustavo.erdemetrio\\source\\repos\\RetornoAulasCSHarp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8AF212AD-F9E1-4B93-A3BD-AD9DBF151126}|RetornoAulasCSHarp\\RetornoAulasCSHarp.csproj|c:\\users\\gustavo.erdemetrio\\source\\repos\\retornoaulascsharp\\retornoaulascsharp\\tb_alunoscadastrados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AF212AD-F9E1-4B93-A3BD-AD9DBF151126}|RetornoAulasCSHarp\\RetornoAulasCSHarp.csproj|solutionrelative:retornoaulascsharp\\tb_alunoscadastrados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AF212AD-F9E1-4B93-A3BD-AD9DBF151126}|RetornoAulasCSHarp\\RetornoAulasCSHarp.csproj|c:\\users\\gustavo.erdemetrio\\source\\repos\\retornoaulascsharp\\retornoaulascsharp\\tb_alunoscadastrados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8AF212AD-F9E1-4B93-A3BD-AD9DBF151126}|RetornoAulasCSHarp\\RetornoAulasCSHarp.csproj|solutionrelative:retornoaulascsharp\\tb_alunoscadastrados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AF212AD-F9E1-4B93-A3BD-AD9DBF151126}|RetornoAulasCSHarp\\RetornoAulasCSHarp.csproj|C:\\Users\\gustavo.erdemetrio\\source\\repos\\RetornoAulasCSHarp\\retornoaulascsharp\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AF212AD-F9E1-4B93-A3BD-AD9DBF151126}|RetornoAulasCSHarp\\RetornoAulasCSHarp.csproj|solutionrelative:retornoaulascsharp\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AF212AD-F9E1-4B93-A3BD-AD9DBF151126}|RetornoAulasCSHarp\\RetornoAulasCSHarp.csproj|C:\\Users\\gustavo.erdemetrio\\source\\repos\\RetornoAulasCSHarp\\retornoaulascsharp\\alunodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AF212AD-F9E1-4B93-A3BD-AD9DBF151126}|RetornoAulasCSHarp\\RetornoAulasCSHarp.csproj|solutionrelative:retornoaulascsharp\\alunodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AF212AD-F9E1-4B93-A3BD-AD9DBF151126}|RetornoAulasCSHarp\\RetornoAulasCSHarp.csproj|C:\\Users\\gustavo.erdemetrio\\source\\repos\\RetornoAulasCSHarp\\retornoaulascsharp\\connbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AF212AD-F9E1-4B93-A3BD-AD9DBF151126}|RetornoAulasCSHarp\\RetornoAulasCSHarp.csproj|solutionrelative:retornoaulascsharp\\connbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AF212AD-F9E1-4B93-A3BD-AD9DBF151126}|RetornoAulasCSHarp\\RetornoAulasCSHarp.csproj|c:\\users\\gustavo.erdemetrio\\source\\repos\\retornoaulascsharp\\retornoaulascsharp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8AF212AD-F9E1-4B93-A3BD-AD9DBF151126}|RetornoAulasCSHarp\\RetornoAulasCSHarp.csproj|solutionrelative:retornoaulascsharp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AF212AD-F9E1-4B93-A3BD-AD9DBF151126}|RetornoAulasCSHarp\\RetornoAulasCSHarp.csproj|C:\\Users\\gustavo.erdemetrio\\source\\repos\\RetornoAulasCSHarp\\retornoaulascsharp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AF212AD-F9E1-4B93-A3BD-AD9DBF151126}|RetornoAulasCSHarp\\RetornoAulasCSHarp.csproj|solutionrelative:retornoaulascsharp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 285,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TB_ALUNOSCADASTRADOS.cs",
+              "DocumentMoniker": "C:\\Users\\gustavo.erdemetrio\\source\\repos\\RetornoAulasCSHarp\\RetornoAulasCSHarp\\TB_ALUNOSCADASTRADOS.cs",
+              "RelativeDocumentMoniker": "RetornoAulasCSHarp\\TB_ALUNOSCADASTRADOS.cs",
+              "ToolTip": "C:\\Users\\gustavo.erdemetrio\\source\\repos\\RetornoAulasCSHarp\\RetornoAulasCSHarp\\TB_ALUNOSCADASTRADOS.cs",
+              "RelativeToolTip": "RetornoAulasCSHarp\\TB_ALUNOSCADASTRADOS.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T19:21:50.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\gustavo.erdemetrio\\source\\repos\\RetornoAulasCSHarp\\RetornoAulasCSHarp\\Form1.cs",
+              "RelativeDocumentMoniker": "RetornoAulasCSHarp\\Form1.cs",
+              "ToolTip": "C:\\Users\\gustavo.erdemetrio\\source\\repos\\RetornoAulasCSHarp\\RetornoAulasCSHarp\\Form1.cs [Design]",
+              "RelativeToolTip": "RetornoAulasCSHarp\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T16:48:01.045Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\gustavo.erdemetrio\\source\\repos\\RetornoAulasCSHarp\\RetornoAulasCSHarp\\Form1.cs",
+              "RelativeDocumentMoniker": "RetornoAulasCSHarp\\Form1.cs",
+              "ToolTip": "C:\\Users\\gustavo.erdemetrio\\source\\repos\\RetornoAulasCSHarp\\RetornoAulasCSHarp\\Form1.cs",
+              "RelativeToolTip": "RetornoAulasCSHarp\\Form1.cs",
+              "ViewState": "AgIAAMcAAAAAAAAAAAAUwNgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T17:31:41.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TB_ALUNOSCADASTRADOS.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\gustavo.erdemetrio\\source\\repos\\RetornoAulasCSHarp\\RetornoAulasCSHarp\\TB_ALUNOSCADASTRADOS.cs",
+              "RelativeDocumentMoniker": "RetornoAulasCSHarp\\TB_ALUNOSCADASTRADOS.cs",
+              "ToolTip": "C:\\Users\\gustavo.erdemetrio\\source\\repos\\RetornoAulasCSHarp\\RetornoAulasCSHarp\\TB_ALUNOSCADASTRADOS.cs [Design]",
+              "RelativeToolTip": "RetornoAulasCSHarp\\TB_ALUNOSCADASTRADOS.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T19:20:02.192Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AlunoDAO.cs",
+              "DocumentMoniker": "C:\\Users\\gustavo.erdemetrio\\source\\repos\\RetornoAulasCSHarp\\RetornoAulasCSHarp\\AlunoDAO.cs",
+              "RelativeDocumentMoniker": "RetornoAulasCSHarp\\AlunoDAO.cs",
+              "ToolTip": "C:\\Users\\gustavo.erdemetrio\\source\\repos\\RetornoAulasCSHarp\\RetornoAulasCSHarp\\AlunoDAO.cs*",
+              "RelativeToolTip": "RetornoAulasCSHarp\\AlunoDAO.cs*",
+              "ViewState": "AgIAABQAAAAAAAAAAAAswD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T17:06:43.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConnBD.cs",
+              "DocumentMoniker": "C:\\Users\\gustavo.erdemetrio\\source\\repos\\RetornoAulasCSHarp\\RetornoAulasCSHarp\\ConnBD.cs",
+              "RelativeDocumentMoniker": "RetornoAulasCSHarp\\ConnBD.cs",
+              "ToolTip": "C:\\Users\\gustavo.erdemetrio\\source\\repos\\RetornoAulasCSHarp\\RetornoAulasCSHarp\\ConnBD.cs",
+              "RelativeToolTip": "RetornoAulasCSHarp\\ConnBD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T17:03:23.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Aluno.cs",
+              "DocumentMoniker": "C:\\Users\\gustavo.erdemetrio\\source\\repos\\RetornoAulasCSHarp\\RetornoAulasCSHarp\\Aluno.cs",
+              "RelativeDocumentMoniker": "RetornoAulasCSHarp\\Aluno.cs",
+              "ToolTip": "C:\\Users\\gustavo.erdemetrio\\source\\repos\\RetornoAulasCSHarp\\RetornoAulasCSHarp\\Aluno.cs",
+              "RelativeToolTip": "RetornoAulasCSHarp\\Aluno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T17:00:20.285Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 115,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
