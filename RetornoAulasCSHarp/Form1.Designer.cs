@@ -96,7 +96,7 @@
             // BTN_ALUNOS_STRIP
             // 
             this.BTN_ALUNOS_STRIP.Name = "BTN_ALUNOS_STRIP";
-            this.BTN_ALUNOS_STRIP.Size = new System.Drawing.Size(180, 24);
+            this.BTN_ALUNOS_STRIP.Size = new System.Drawing.Size(126, 24);
             this.BTN_ALUNOS_STRIP.Text = "ALUNOS";
             this.BTN_ALUNOS_STRIP.Click += new System.EventHandler(this.BTN_ALUNOS_STRIP_Click);
             // 
@@ -114,7 +114,7 @@
             this.TXT_EMAIL.Location = new System.Drawing.Point(16, 126);
             this.TXT_EMAIL.Name = "TXT_EMAIL";
             this.TXT_EMAIL.Size = new System.Drawing.Size(401, 23);
-            this.TXT_EMAIL.TabIndex = 1;
+            this.TXT_EMAIL.TabIndex = 2;
             this.TXT_EMAIL.TextChanged += new System.EventHandler(this.TXT_EMAIL_TextChanged);
             // 
             // LBL_EMAIL
@@ -155,7 +155,7 @@
             this.BTN_ATUALIZAR.Location = new System.Drawing.Point(222, 294);
             this.BTN_ATUALIZAR.Name = "BTN_ATUALIZAR";
             this.BTN_ATUALIZAR.Size = new System.Drawing.Size(195, 34);
-            this.BTN_ATUALIZAR.TabIndex = 4;
+            this.BTN_ATUALIZAR.TabIndex = 9;
             this.BTN_ATUALIZAR.Text = "ATUALIZAR";
             this.BTN_ATUALIZAR.UseVisualStyleBackColor = false;
             this.BTN_ATUALIZAR.Click += new System.EventHandler(this.BTN_ATUALIZAR_Click);
@@ -168,7 +168,7 @@
             this.BTN_DELETAR.Location = new System.Drawing.Point(16, 294);
             this.BTN_DELETAR.Name = "BTN_DELETAR";
             this.BTN_DELETAR.Size = new System.Drawing.Size(195, 34);
-            this.BTN_DELETAR.TabIndex = 4;
+            this.BTN_DELETAR.TabIndex = 10;
             this.BTN_DELETAR.Text = "DELETAR";
             this.BTN_DELETAR.UseVisualStyleBackColor = false;
             this.BTN_DELETAR.Click += new System.EventHandler(this.BTN_DELETAR_Click);
@@ -181,7 +181,7 @@
             this.BTN_ADICIONAR.Location = new System.Drawing.Point(16, 254);
             this.BTN_ADICIONAR.Name = "BTN_ADICIONAR";
             this.BTN_ADICIONAR.Size = new System.Drawing.Size(195, 34);
-            this.BTN_ADICIONAR.TabIndex = 4;
+            this.BTN_ADICIONAR.TabIndex = 7;
             this.BTN_ADICIONAR.Text = "ADICIONAR";
             this.BTN_ADICIONAR.UseVisualStyleBackColor = false;
             this.BTN_ADICIONAR.Click += new System.EventHandler(this.BTN_ADICIONAR_Click);
@@ -193,7 +193,7 @@
             this.BTN_IMG_ADICIONAR.Location = new System.Drawing.Point(641, 65);
             this.BTN_IMG_ADICIONAR.Name = "BTN_IMG_ADICIONAR";
             this.BTN_IMG_ADICIONAR.Size = new System.Drawing.Size(177, 168);
-            this.BTN_IMG_ADICIONAR.TabIndex = 10;
+            this.BTN_IMG_ADICIONAR.TabIndex = 4;
             this.BTN_IMG_ADICIONAR.Text = "CARREGAR IMAGEM .PNG";
             this.BTN_IMG_ADICIONAR.UseVisualStyleBackColor = false;
             this.BTN_IMG_ADICIONAR.Click += new System.EventHandler(this.BTN_IMG_ADICIONAR_Click);
@@ -225,7 +225,7 @@
             this.BTN_IMG_ALTERAR.Location = new System.Drawing.Point(641, 254);
             this.BTN_IMG_ALTERAR.Name = "BTN_IMG_ALTERAR";
             this.BTN_IMG_ALTERAR.Size = new System.Drawing.Size(80, 74);
-            this.BTN_IMG_ALTERAR.TabIndex = 12;
+            this.BTN_IMG_ALTERAR.TabIndex = 5;
             this.BTN_IMG_ALTERAR.Text = "ALTERAR IMAGEM";
             this.BTN_IMG_ALTERAR.UseVisualStyleBackColor = false;
             this.BTN_IMG_ALTERAR.Click += new System.EventHandler(this.BTN_IMG_ALTERAR_Click);
@@ -237,7 +237,7 @@
             this.BTN_IMG_EXCLUIR.Location = new System.Drawing.Point(738, 254);
             this.BTN_IMG_EXCLUIR.Name = "BTN_IMG_EXCLUIR";
             this.BTN_IMG_EXCLUIR.Size = new System.Drawing.Size(80, 74);
-            this.BTN_IMG_EXCLUIR.TabIndex = 12;
+            this.BTN_IMG_EXCLUIR.TabIndex = 6;
             this.BTN_IMG_EXCLUIR.Text = "EXCLUIR IMAGEM";
             this.BTN_IMG_EXCLUIR.UseVisualStyleBackColor = false;
             this.BTN_IMG_EXCLUIR.Click += new System.EventHandler(this.BTN_IMG_EXCLUIR_Click);
@@ -250,7 +250,7 @@
             this.BTN_BUSCAR.Location = new System.Drawing.Point(222, 254);
             this.BTN_BUSCAR.Name = "BTN_BUSCAR";
             this.BTN_BUSCAR.Size = new System.Drawing.Size(195, 34);
-            this.BTN_BUSCAR.TabIndex = 4;
+            this.BTN_BUSCAR.TabIndex = 8;
             this.BTN_BUSCAR.Text = "BUSCAR";
             this.BTN_BUSCAR.UseVisualStyleBackColor = false;
             this.BTN_BUSCAR.Click += new System.EventHandler(this.BTN_BUSCAR_Click);
@@ -262,7 +262,7 @@
             this.LblLink.Location = new System.Drawing.Point(774, 362);
             this.LblLink.Name = "LblLink";
             this.LblLink.Size = new System.Drawing.Size(44, 17);
-            this.LblLink.TabIndex = 26;
+            this.LblLink.TabIndex = 11;
             this.LblLink.TabStop = true;
             this.LblLink.Text = "GitHub";
             // 
@@ -273,7 +273,7 @@
             this.Lbl_Copyright.Location = new System.Drawing.Point(675, 362);
             this.Lbl_Copyright.Name = "Lbl_Copyright";
             this.Lbl_Copyright.Size = new System.Drawing.Size(96, 17);
-            this.Lbl_Copyright.TabIndex = 27;
+            this.Lbl_Copyright.TabIndex = 0;
             this.Lbl_Copyright.Text = "2026 ©Gegugus ";
             // 
             // Lbl_Rodape
@@ -283,7 +283,7 @@
             this.Lbl_Rodape.Location = new System.Drawing.Point(13, 362);
             this.Lbl_Rodape.Name = "Lbl_Rodape";
             this.Lbl_Rodape.Size = new System.Drawing.Size(133, 17);
-            this.Lbl_Rodape.TabIndex = 28;
+            this.Lbl_Rodape.TabIndex = 0;
             this.Lbl_Rodape.Text = "Cadastro de Alunos v1.0";
             // 
             // SCREEN
