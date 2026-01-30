@@ -41,6 +41,8 @@
             // 
             // DGV_ALUNOS
             // 
+            this.DGV_ALUNOS.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left)));
             this.DGV_ALUNOS.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.DGV_ALUNOS.Location = new System.Drawing.Point(12, 44);
             this.DGV_ALUNOS.Name = "DGV_ALUNOS";
@@ -50,16 +52,18 @@
             // 
             // Lbl_Rodape
             // 
+            this.Lbl_Rodape.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
             this.Lbl_Rodape.AutoSize = true;
             this.Lbl_Rodape.Font = new System.Drawing.Font("Rubik", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Lbl_Rodape.Location = new System.Drawing.Point(12, 413);
             this.Lbl_Rodape.Name = "Lbl_Rodape";
-            this.Lbl_Rodape.Size = new System.Drawing.Size(133, 17);
+            this.Lbl_Rodape.Size = new System.Drawing.Size(130, 17);
             this.Lbl_Rodape.TabIndex = 31;
-            this.Lbl_Rodape.Text = "Cadastro de Alunos v1.0";
+            this.Lbl_Rodape.Text = "Cadastro de Alunos v1.1";
             // 
             // Lbl_Copyright
             // 
+            this.Lbl_Copyright.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
             this.Lbl_Copyright.AutoSize = true;
             this.Lbl_Copyright.Font = new System.Drawing.Font("Rubik", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Lbl_Copyright.Location = new System.Drawing.Point(528, 413);
@@ -70,6 +74,7 @@
             // 
             // LblLink
             // 
+            this.LblLink.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
             this.LblLink.AutoSize = true;
             this.LblLink.Font = new System.Drawing.Font("Rubik", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.LblLink.Location = new System.Drawing.Point(627, 413);
@@ -91,6 +96,8 @@
             // 
             // BTN_ATUALIZAR
             // 
+            this.BTN_ATUALIZAR.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.BTN_ATUALIZAR.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(13)))), ((int)(((byte)(101)))), ((int)(((byte)(192)))));
             this.BTN_ATUALIZAR.Font = new System.Drawing.Font("Rubik Medium", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.BTN_ATUALIZAR.ForeColor = System.Drawing.Color.White;
@@ -104,6 +111,9 @@
             // 
             // PB_IMAGEM
             // 
+            this.PB_IMAGEM.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.PB_IMAGEM.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.PB_IMAGEM.Location = new System.Drawing.Point(463, 44);
             this.PB_IMAGEM.Name = "PB_IMAGEM";

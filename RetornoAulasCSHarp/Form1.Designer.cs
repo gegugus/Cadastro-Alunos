@@ -66,6 +66,8 @@
             // 
             // TXT_NOME
             // 
+            this.TXT_NOME.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.TXT_NOME.Font = new System.Drawing.Font("Rubik", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.TXT_NOME.Location = new System.Drawing.Point(16, 65);
             this.TXT_NOME.Name = "TXT_NOME";
@@ -74,6 +76,7 @@
             // 
             // menuStrip1
             // 
+            this.menuStrip1.BackColor = System.Drawing.SystemColors.ControlLight;
             this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.BTN_CADASTROS_STRIP,
             this.BTN_SAIR_STRIP});
@@ -110,6 +113,8 @@
             // 
             // TXT_EMAIL
             // 
+            this.TXT_EMAIL.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.TXT_EMAIL.Font = new System.Drawing.Font("Rubik", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.TXT_EMAIL.Location = new System.Drawing.Point(16, 126);
             this.TXT_EMAIL.Name = "TXT_EMAIL";
@@ -141,6 +146,8 @@
             // 
             // TXT_TELEFONE
             // 
+            this.TXT_TELEFONE.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.TXT_TELEFONE.Font = new System.Drawing.Font("Rubik", 9.75F);
             this.TXT_TELEFONE.Location = new System.Drawing.Point(16, 201);
             this.TXT_TELEFONE.Name = "TXT_TELEFONE";
@@ -188,6 +195,7 @@
             // 
             // BTN_IMG_ADICIONAR
             // 
+            this.BTN_IMG_ADICIONAR.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.BTN_IMG_ADICIONAR.BackColor = System.Drawing.Color.Gray;
             this.BTN_IMG_ADICIONAR.Font = new System.Drawing.Font("Rubik Medium", 9.75F, System.Drawing.FontStyle.Bold);
             this.BTN_IMG_ADICIONAR.Location = new System.Drawing.Point(641, 65);
@@ -200,7 +208,9 @@
             // 
             // PB_IMAGEM
             // 
+            this.PB_IMAGEM.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.PB_IMAGEM.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.PB_IMAGEM.Cursor = System.Windows.Forms.Cursors.No;
             this.PB_IMAGEM.Location = new System.Drawing.Point(449, 65);
             this.PB_IMAGEM.Name = "PB_IMAGEM";
             this.PB_IMAGEM.Size = new System.Drawing.Size(177, 263);
@@ -210,6 +220,7 @@
             // 
             // label1
             // 
+            this.label1.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Rubik", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.Location = new System.Drawing.Point(445, 38);
@@ -220,6 +231,7 @@
             // 
             // BTN_IMG_ALTERAR
             // 
+            this.BTN_IMG_ALTERAR.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.BTN_IMG_ALTERAR.BackColor = System.Drawing.Color.Silver;
             this.BTN_IMG_ALTERAR.Font = new System.Drawing.Font("Rubik Medium", 9.75F, System.Drawing.FontStyle.Bold);
             this.BTN_IMG_ALTERAR.Location = new System.Drawing.Point(641, 254);
@@ -232,6 +244,7 @@
             // 
             // BTN_IMG_EXCLUIR
             // 
+            this.BTN_IMG_EXCLUIR.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.BTN_IMG_EXCLUIR.BackColor = System.Drawing.Color.RosyBrown;
             this.BTN_IMG_EXCLUIR.Font = new System.Drawing.Font("Rubik Medium", 9.75F, System.Drawing.FontStyle.Bold);
             this.BTN_IMG_EXCLUIR.Location = new System.Drawing.Point(738, 254);
@@ -257,6 +270,7 @@
             // 
             // LblLink
             // 
+            this.LblLink.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
             this.LblLink.AutoSize = true;
             this.LblLink.Font = new System.Drawing.Font("Rubik", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.LblLink.Location = new System.Drawing.Point(774, 362);
@@ -268,6 +282,7 @@
             // 
             // Lbl_Copyright
             // 
+            this.Lbl_Copyright.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
             this.Lbl_Copyright.AutoSize = true;
             this.Lbl_Copyright.Font = new System.Drawing.Font("Rubik", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Lbl_Copyright.Location = new System.Drawing.Point(675, 362);
@@ -278,13 +293,14 @@
             // 
             // Lbl_Rodape
             // 
+            this.Lbl_Rodape.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
             this.Lbl_Rodape.AutoSize = true;
             this.Lbl_Rodape.Font = new System.Drawing.Font("Rubik", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Lbl_Rodape.Location = new System.Drawing.Point(13, 362);
             this.Lbl_Rodape.Name = "Lbl_Rodape";
-            this.Lbl_Rodape.Size = new System.Drawing.Size(133, 17);
+            this.Lbl_Rodape.Size = new System.Drawing.Size(130, 17);
             this.Lbl_Rodape.TabIndex = 0;
-            this.Lbl_Rodape.Text = "Cadastro de Alunos v1.0";
+            this.Lbl_Rodape.Text = "Cadastro de Alunos v1.1";
             // 
             // SCREEN
             // 

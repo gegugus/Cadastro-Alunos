@@ -83,12 +83,8 @@ namespace RetornoAulasCSHarp
 
             DataGridViewRow row = DGV_ALUNOS.Rows[e.RowIndex];
 
-            // Mantemos o ID na variável para lógica interna, se necessário
             alunoSelecionadoId = Convert.ToInt32(row.Cells["Id"].Value);
 
-            // REMOVIDO: Atribuições a TXT_ID, TXT_NOME, etc, pois não existem neste Form
-
-            // Lógica da Imagem (PB_IMAGEM deve existir no Design deste Form)
             if (DGV_ALUNOS.Columns.Contains("Imagem") && row.Cells["Imagem"].Value != DBNull.Value)
             {
                 byte[] fotoFatura = (byte[])row.Cells["Imagem"].Value;

@@ -14,6 +14,12 @@ namespace RetornoAulasCSHarp
 {
     public partial class SCREEN : Form
     {
+        //ATIVIDADE PRÁTICA
+        //DISCENTE: GUSTAVO EMANUEL
+        //DOCENTE: MARCOS COZATTI
+        //DATA: 30 DE JANEIRO DE 2026
+        //OBSERVAÇÕES: USO DE IA PARA AUXILIO EM PARTES DA FERRAMENTA DE IMAGEM, ATUALIZAÇÃO E CONEXÃO ENTRE FORMS.
+
         private AlunoDAO _alunoDAO = new AlunoDAO();
         private int alunoSelecionadoId = 0;
 
@@ -161,7 +167,7 @@ namespace RetornoAulasCSHarp
             }
 
             _alunoDAO.DELETE(alunoSelecionadoId);
-            MessageBox.Show("Aluno deletado com sucesso!");
+            MessageBox.Show($"Cadastro de {TXT_NOME.Text} deletado com sucesso!");
             LimparCampos();
         }
 
@@ -183,7 +189,7 @@ namespace RetornoAulasCSHarp
             };
 
             _alunoDAO.UPDATE(aluno);
-            MessageBox.Show($"Dados de {TXT_NOME.Text} atualizados com sucesso!");
+            MessageBox.Show($"Cadastro de {TXT_NOME.Text} atualizados com sucesso!");
             LimparCampos();
         }
 
